@@ -257,7 +257,7 @@ const PropertyDetail = () => {
                   <ApperIcon name="Bed" className="w-6 h-6 text-primary" />
                 </div>
                 <div className="text-2xl font-bold text-gray-900">{property.bedrooms}</div>
-                <div className="text-sm text-gray-600">Bedrooms</div>
+                <div className="text-sm text-gray-600">Bedrooms 1</div>
               </div>
               <div className="text-center">
                 <div className="w-12 h-12 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-2">
