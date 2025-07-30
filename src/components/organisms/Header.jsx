@@ -36,8 +36,8 @@ const Header = ({
 <ApperIcon name="Home" className="w-5 h-5 text-white" />
 </div>
 <span className="font-display font-bold text-xl text-gray-900">
-HomeScout Pro 32
-          </span>
+              HomeScout Pro 32
+            </span>
         </Link>
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
